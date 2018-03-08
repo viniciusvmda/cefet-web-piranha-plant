@@ -32,3 +32,15 @@ blockquote {
 img {
 	border: 4px solid limegreen;
 }
+
+table {
+	align-content: center;
+	text-align: center;
+	border-collapse: collapse;
+	width: 600px;
+}
+
+th, td {
+	border: 2px solid silver;
+	padding: 4px;
+}
